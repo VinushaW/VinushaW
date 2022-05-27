@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @VinushaW
-- 👀 I’m interested in lipidomics
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on --
-- 📫 How to reach me --
+- 👋 Hi, I’m Vinusha
 
 
 <!---
